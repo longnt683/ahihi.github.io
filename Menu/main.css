@@ -1,0 +1,146 @@
+*{
+    max-width: 660px;
+    margin: auto;
+}
+
+body{
+    background-color: bisque;   
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 50px;
+    margin-left: 40px;
+}
+
+.menu{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+
+}
+
+.menu1{
+    background-color: aliceblue;
+}
+
+.menu2{
+    background-color: aliceblue;
+}
+
+.picture{
+    width: 400px;
+}
+
+.BT1{
+    padding: 10px;
+    border: 1px solid #111;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.BT2{
+    padding: 10px;
+    border: 1px solid #111;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.BT3{
+    padding: 10px;
+    border: 1px solid #111;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.BT4{
+    padding: 10px;
+    border: 1px solid #111;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.BT5{
+    padding: 10px;
+    border: 1px solid #111;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.BT6{
+    padding: 10px;
+    border: 1px solid #111;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.BT7{
+    padding: 10px;
+    border: 1px solid #111;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.BT8{
+    padding: 10px;
+    border: 1px solid #111;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.BT9{
+    padding: 10px;
+    border: 1px solid #111;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.BT10{
+    padding: 10px;
+    border: 1px solid #111;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.BT11{
+    padding: 10px;
+    border: 1px solid #111;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.BT12{
+    padding: 10px;
+    border: 1px solid #111;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.BT13{
+    padding: 10px;
+    border: 1px solid #111;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.BT14{
+
+    padding: 10px;
+    border: 1px solid #111;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.BT15{
+    padding: 10px;
+    border: 1px solid #111;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.BT16{
+    padding: 10px;
+    border: 1px solid #111;
+    display: inline-block;
+    text-decoration: none;
+}
